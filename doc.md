@@ -10,6 +10,11 @@ https://www.vagrantup.com/
 
 https://app.vagrantup.com/boxes/search
 
+vagrant 添加box
+
+vagrant box add centos/7 ../CentOS-7-x86_64-Vagrant-2004_01.VirtualBox.box
+
+
 ## 2 编写Vagrantfile
 
 ```shell
