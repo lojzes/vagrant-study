@@ -10,6 +10,9 @@ https://www.vagrantup.com/
 
 https://app.vagrantup.com/boxes/search
 
+下载centos7 
+https://cloud.centos.org/centos/7/vagrant/x86_64/images/CentOS-7-x86_64-Vagrant-2004_01.VirtualBox.box
+
 vagrant 添加box
 
 vagrant box add centos/7 ../CentOS-7-x86_64-Vagrant-2004_01.VirtualBox.box
