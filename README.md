@@ -66,7 +66,7 @@ end
 ## 3 执行vagrant 命令
 
 ```shell
-vagrant init
+vagrant up
 ```
 
 ## 4 修改s sh 登陆
